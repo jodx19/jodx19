@@ -79,6 +79,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20.NET%20Track%20(ITI)-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Full Stack .NET"/>
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" alt="OOP Certificate"/>
+  <img src="https://img.shields.io/badge/Database%20Fundamentals-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Database Fundamentals"/>
   <img src="https://img.shields.io/badge/OpenAI%20GPTs%20Course-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPTs Course"/>
 </p>
 
@@ -88,6 +89,15 @@
 - 🏫 **Information Technology Institute (ITI)**  
 - 📅 *Completion Date:* 2025  
 - 🧾 [View Certificate](https://drive.google.com/file/d/1MvnQhEw2baeM68IlfdQpDRF6SuQBwcnP/view?usp=sharing)  
+
+---
+
+#### 🗃️ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_ITI.svg" width="20"/> Database Fundamentals  
+- 🏫 **Information Technology Institute (ITI)**  
+- 🕒 *Duration:* 2 Hours, 47 Minutes  
+- 📅 *Completion Date:* **Feb 8, 2025**  
+- 🧾 [View Certificate (PDF)](https://drive.google.com/file/d/16LrbWvC1TLHHfn50YKZz261zVQObQ89U/view?usp=sharing)  
+- 🔑 *Verification Code:* nAXm3CVuJG  
 
 ---
 
