@@ -1,9 +1,6 @@
-
 <p align="center">
-  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="100%">
+  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="100%"/>
 </p>
-
-
 
 <h1 align="center">👋 Hi, I'm Mahmoud Mostafa</h1>
 
@@ -15,15 +12,15 @@
 
 ---
 
-### 🚀 About Me  
-- 🌟 Passionate about building **robust** and **high-performance** web apps using **.NET** and **Angular**  
-- 🧩 Focused on clean architecture, maintainable code, and delivering real-world impact  
-- 💬 Always eager to learn new technologies and design patterns  
-- 🔍 Open for **freelance projects**, **collaborations**, and **full-time opportunities**
+### 🚀 About Me
+- 🌟 Passionate about building **robust** and **high-performance** web apps using **.NET** and **Angular**.  
+- 🧩 Focused on clean architecture, maintainable code, and delivering real-world impact.  
+- 💬 Always eager to learn new technologies and design patterns.  
+- 🔍 Open for **freelance projects**, **collaborations**, and **full-time opportunities**.
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -37,72 +34,72 @@
 
 ---
 
-### 💼 Featured Projects  
-
+### 💼 Featured Projects
 <p align="center">
-  <a href="https://github.com/jodx19/Movie-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=Movie-App&theme=tokyonight" />
+  <a href="https://github.com/jodx19/Movie-App" title="Movie App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=Movie-App&theme=tokyonight" alt="Movie-App" />
   </a>
-  <a href="https://github.com/jodx19/ToDo-List-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=ToDo-List-App&theme=tokyonight" />
+  <a href="https://github.com/jodx19/ToDo-List-App" title="ToDo List App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=ToDo-List-App&theme=tokyonight" alt="ToDo-List-App" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jodx19/One-Page-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=One-Page-Website&theme=tokyonight" />
+  <a href="https://github.com/jodx19/One-Page-Website" title="One Page Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=One-Page-Website&theme=tokyonight" alt="One-Page-Website" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodx19&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight" height="150em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodx19&layout=compact&theme=tokyonight" height="150em" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jodx19&theme=tokyo-night"/>
-</p>
-
----
-
-### 🎓 Certificates  
-<p align="center">
-  🧾 <em>Coming Soon – Certificates from ITI, Udemy, and More!</em>  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20.NET%20Track%20(ITI)-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Front%20End%20Development-006699?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Back%20End%20with%20ASP.NET%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-<p align="center">
-  📤 Once I receive my official certificates, they will be uploaded here as verified badges and viewable links.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jodx19&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Badges  
+### 🎓 Certificates
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jodx19&theme=tokyonight&no-bg=true&no-frame=true" />
+  🧾 <em>Coming Soon – Certificates from ITI, Udemy, and More!</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20.NET%20Track%20(ITI)-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ITI"/>
+  <img src="https://img.shields.io/badge/Front%20End%20Development-006699?style=for-the-badge&logo=angular&logoColor=white" alt="Front End"/>
+  <img src="https://img.shields.io/badge/Back%20End%20with%20ASP.NET%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Back End"/>
+</p>
+
+<p align="center">
+  📤 Once official certificates are available, they will be added below as viewable links and badges.
 </p>
 
 ---
 
-### 🤝 Connect With Me  <img width="1536" height="1024" alt="mahmoudmostafa" src="https://github.com/user-attachments/assets/351df97e-babe-42a0-b1fd-0e2f72e1e576" />
+### 🏆 Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jodx19&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-mostafa-824169244">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://streak-stats.demolab.com?user=jodx19&theme=tokyonight&hide_border=true&border_radius=5" alt="Streak Stats"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-mostafa-824169244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:elsafi19_dx72@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/jodx19">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/jodx19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
