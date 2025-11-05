@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="70%"/>
+  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="80%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mahmoud Mostafa</h1>
@@ -12,15 +12,15 @@
 
 ---
 
-### 🚀 About Me
-- 🌟 Passionate about building **robust** and **high-performance** web apps using **.NET** and **Angular**.  
-- 🧩 Focused on clean architecture, maintainable code, and delivering real-world impact.  
-- 💬 Always eager to learn new technologies and design patterns.  
-- 🔍 Open for **freelance projects**, **collaborations**, and **full-time opportunities**.
+### 🚀 About Me  
+- 🌟 Passionate about building **robust** and **high-performance** web apps using **.NET** and **Angular**  
+- 🧩 Focused on clean architecture, maintainable code, and delivering real-world impact  
+- 💬 Always eager to learn new technologies and design patterns  
+- 🔍 Open for **freelance projects**, **collaborations**, and **full-time opportunities**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -37,32 +37,39 @@
 ### 💼 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/EraQii94/Js-Ecommerce-Project" title="JS E-Commerce Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EraQii94&repo=Js-Ecommerce-Project&theme=tokyonight" alt="JS E-Commerce Project" />
+  <a href="https://github.com/jodx19/Js-Ecommerce-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=Js-Ecommerce-Project&theme=tokyonight" />
   </a>
-  <br>
-  🛒 <em>Dynamic shopping experience built with Vanilla JavaScript and Local Storage.</em>
+  <a href="https://github.com/jodx19/hosto-landing-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=hosto-landing-page&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jodx19/hosto-landing-page" title="Hosto Landing Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=hosto-landing-page&theme=tokyonight" alt="Hosto Landing Page" />
+  <a href="https://github.com/jodx19/Movie-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=Movie-App&theme=tokyonight" />
   </a>
-  <br>
-  🌐 <em>Responsive landing page with modern UI, smooth animations, and clean layout.</em>
+  <a href="https://github.com/jodx19/ToDo-List-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=ToDo-List-App&theme=tokyonight" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/jodx19/One-Page-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=One-Page-Website&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight" height="150em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodx19&layout=compact&theme=tokyonight" height="150em" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodx19&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jodx19&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jodx19&theme=tokyo-night"/>
 </p>
 
 ---
@@ -99,28 +106,24 @@
 
 ---
 
-### 🏆 Achievements & Badges
+### 🏆 Achievements & Badges  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jodx19&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jodx19&theme=tokyonight&hide_border=true&border_radius=5" alt="Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jodx19&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-mostafa-824169244" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mahmoud-mostafa-824169244">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:elsafi19_dx72@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/jodx19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/jodx19">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
