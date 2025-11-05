@@ -90,10 +90,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jodx19&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jodx19&theme=tokyonight&hide_border=true&border_radius=5" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me  <img width="1536" height="1024" alt="mahmoudmostafa" src="https://github.com/user-attachments/assets/351df97e-babe-42a0-b1fd-0e2f72e1e576" />
