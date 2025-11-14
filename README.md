@@ -40,15 +40,11 @@
   <a href="https://github.com/EraQii94/Js-Ecommerce-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EraQii94&repo=Js-Ecommerce-Project&theme=tokyonight" />
   </a>
-  </p>
-
+  
   <a href="https://github.com/amralmohamdy/Movie-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amralmohamdy&repo=Movie-App&theme=tokyonight" />
-     <p style="margin:8px 0 0; font-size:13px; line-height:1.2;">
-      <strong>CineVue MovieApp</strong> — Fast, multilingual movie browser built with Angular 20 and TMDB API. Wishlist, search, trailers & Firebase auth.  <a href="https://lnkd.in/dWpfWdiX">Live demo</a>
-     </p>
   </a>
-
+</p>
 
 <p align="center">
   <a href="https://github.com/jodx19/ToDo-List-App">
