@@ -1,4 +1,4 @@
-د<p align="center">
+<p align="center">
   <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="80%">
 </p>
 
