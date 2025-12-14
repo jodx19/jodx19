@@ -36,24 +36,20 @@
 
 ### 💼 Featured Projects  
 
+<p align="center"> 
+  <a href="https://github.com/jodx19/safistore-front-end-angular-"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=safistore-front-end-angular-&theme=tokyonight" /> </a>
+  <a href="https://github.com/amralmohamdy/ticket-reseat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amralmohamdy&repo=ticket-reseat&theme=tokyonight" /> </a>
+</p> 
 <p align="center">
-  <a href="https://github.com/EraQii94/Js-Ecommerce-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EraQii94&repo=Js-Ecommerce-Project&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/amralmohamdy/Movie-App">
+  <a href="https://github.com/amralmohamdy/Movie-App"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amralmohamdy&repo=Movie-App&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jodx19/ToDo-List-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=ToDo-List-App&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/jodx19/One-Page-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=One-Page-Website&theme=tokyonight" />
-  </a>
-</p>
+  </a> <a href="https://github.com/jodx19/To_do_list">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=To_do_list&theme=tokyonight" /> </a>
+</p> <p align="center"> 
+  <a href="https://github.com/jodx19/One-Page-Website"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=One-Page-Website&theme=tokyonight" /> </a> </p>
 
 ---
 
