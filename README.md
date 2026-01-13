@@ -115,13 +115,10 @@ I am a Full Stack .NET developer with a background in dentistry who transitioned
 
 ## GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats-jodx19.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight" alt="Mahmoud's GitHub stats" />
-  <img src="https://github-readme-stats-jodx19.vercel.app/api/top-langs/?username=jodx19&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight" alt="Mahmoud's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodx19&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jodx19&theme=tokyo-night" alt="Activity Graph" />
-</p>
 
 ---
 
@@ -133,10 +130,6 @@ I am a Full Stack .NET developer with a background in dentistry who transitioned
 
 ---
 
-## Achievements & badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jodx19&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
 
 ---
 
