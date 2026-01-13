@@ -62,49 +62,54 @@ I am a Full Stack .NET developer with a background in dentistry who transitioned
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/jodx19/To_do_list" target="_blank" rel="noopener">
-        <img src="/todo.png" alt="To Do List App" width="260" />
-      </a>
-      <p>
-        <strong>To Do List</strong><br/>
-        <small>Simple to-do app demonstrating DOM manipulation and localStorage.</small>
-      </p>
-    </td>
 
-    <td align="center" width="25%">
-      <a href="https://github.com/amralmohamdy/Movie-App" target="_blank" rel="noopener">
-        <img src="/movie-app.png" alt="Movie App" width="260" />
-      </a>
-      <p>
-        <strong>Movie App</strong><br/>
-        <small>Movie browsing app consuming external APIs with clean UI.</small>
-      </p>
-    </td>
 
-    <td align="center" width="25%">
-      <a href="https://github.com/jodx19/DigitalNotesManager" target="_blank" rel="noopener">
-        <img src="/digital-notes-manager.png" alt="Digital Notes Manager" width="260" />
-      </a>
-      <p>
-        <strong>Digital Notes Manager</strong><br/>
-        <small>Desktop-style notes manager with CRUD operations and persistence.</small>
-      </p>
-    </td>
+<p align="center">
+  <a href="https://github.com/jodx19/To_do_list">
+    <img src="todo.png" width="260" />
+  </a>
+</p>
+<p align="center">
+  <strong>To Do List</strong><br/>
+  <small>Simple to-do app demonstrating DOM manipulation and localStorage.</small>
+</p>
 
-    <td align="center" width="25%">
-      <a href="https://github.com/jodx19/safistore-front-end-angular-" target="_blank" rel="noopener">
-        <img src="/safistore.png" alt="Safistore" width="260" />
-      </a>
-      <p>
-        <strong>Safistore</strong><br/>
-        <small>Angular e-commerce front-end with product catalog and cart UI.</small>
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+<p align="center">
+  <a href="https://github.com/amralmohamdy/Movie-App">
+    <img src="movie-app.png" width="260" />
+  </a>
+</p>
+<p align="center">
+  <strong>Movie App</strong><br/>
+  <small>Movie browsing app consuming external APIs with clean UI.</small>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/jodx19/DigitalNotesManager">
+    <img src="digital-notes-manager.png" width="260" />
+  </a>
+</p>
+<p align="center">
+  <strong>Digital Notes Manager</strong><br/>
+  <small>Desktop-style notes manager with CRUD operations and persistence.</small>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/jodx19/safistore-front-end-angular-">
+    <img src="safistore.png" width="260" />
+  </a>
+</p>
+<p align="center">
+  <strong>Safistore</strong><br/>
+  <small>Angular e-commerce front-end with product catalog and cart UI.</small>
+</p>
+
 
 ---
 
